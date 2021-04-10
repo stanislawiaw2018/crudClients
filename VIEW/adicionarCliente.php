@@ -6,6 +6,7 @@
             <div class="input-field col s12">
                 <input type="text" name="nome" id="nome">
                 <label for="nome">Nome</label>
+                
             </div>
 
             <div class="input-field col s12">

@@ -14,10 +14,12 @@
 <h2>
 
 <h2 align="center">
-<img alt="layout demonstrativo" src="style/image/Desafio2-3(index.html).png" width="600px">
+<img alt="layout demonstrativo" src="images/demonstrative.png" width="600px">
 </h2>
 
-
+<h2 align="center">
+<a href="www.google.com" target="_blank">Link de acesso</a>
+</h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/">
         <img alt="Made by Antonio Stanislaw" src="https://img.shields.io/badge/made%20by-Antonio Stanislaw-%23fc8406">
