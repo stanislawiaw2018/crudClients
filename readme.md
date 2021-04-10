@@ -18,7 +18,7 @@
 </h2>
 
 <h2 align="center">
-<a href="https://palavras-cruzadas20.000webhostapp.com/" rel="nofollow" target="_blank"> Acessar a demonstração
+<a href="http://cadastrocliente2021.epizy.com/index.php" rel="nofollow" target="_blank"> Acessar a demonstração
 </a>
 </h2>
 <p align="center">
