@@ -39,7 +39,7 @@
 
 ## 🚀 Sobre o projeto
 
-Porjeto desenvolvido com o proposito de estimular o conhecimento na linguagem back-end PHP com interação com o banco de dados. A ideia desse projeto consiste na criação de um CRUD de clientes em um sistema de cadastro.
+Projeto desenvolvido com o proposito de estimular o conhecimento na linguagem back-end PHP com interação com o banco de dados. A ideia desse projeto consiste na criação de um CRUD de clientes em um sistema de cadastro.
 
 
 
