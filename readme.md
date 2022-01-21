@@ -17,10 +17,7 @@
 <img alt="layout demonstrativo" src="images/demonstrative.png" width="600px">
 </h2>
 
-<h2 align="center">
-<a href="http://www.cadastrocliente2021.epizy.com/index.php?i=1" rel="nofollow" target="_blank"> Acessar a demonstração
-</a>
-</h2>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/antonio-stanislaw-dos-santos-47a077106/">
         <img alt="Made by Antonio Stanislaw" src="https://img.shields.io/badge/made%20by-Antonio Stanislaw-%23fc8406">
